@@ -26,7 +26,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>something amazing <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at my <strong>portfolio</strong> <a href=" https://www.igtechso.com/" rel="nofollow">https://www.igtechso.com/</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> All of my projects are available at my <strong>portfolio</strong> <a href="https://www.igtechso.com/" rel="nofollow">https://www.igtechso.com/</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> I regularly write articles on <a href="https://checkwebsitedemo.com/" rel="nofollow">https://checkwebsitedemo.com/</a></p>
